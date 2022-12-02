@@ -1,3 +1,3 @@
-# Equillow
+# Shelter
 
 ## DESCRIPTION
